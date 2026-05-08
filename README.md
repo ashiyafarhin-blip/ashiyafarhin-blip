@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ashiya! 👋
 
-<!--
-**ashiyafarhin-blip/ashiyafarhin-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 1st Year Computer Science Student
+🐍 Python Developer | DSA Learner
+🚀 Building projects every day
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 My Projects
+| Project | Description |
+|---------|-------------|
+| 🔢 Basic Calculator | Simple calculator in Python |
+| 📝 Sticky Notes App | Notes manager with file saving |
+| ✅ To-Do List App | Task manager with status tracking |
+| 📊 Student Grade Calculator | Grade & percentage calculator |
+
+## 📊 GitHub Stats
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashiyafarhin-blip&show_icons=true&theme=radical)
+
+
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/aashiya-farhin-690241377?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 💻 LeetCode: (paste your leetcode link here)
+
+---
+⭐ "Becoming my best self, one project at a time"
