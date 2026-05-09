@@ -27,7 +27,7 @@
 
 ## 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/aashiya-farhin-690241377?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 💻 LeetCode: (paste your leetcode link here)
+- 💻 LeetCode: https://leetcode.com/u/TfmG74Kg9i/
 
 ---
 ⭐ "Becoming my best self, one project at a time"
